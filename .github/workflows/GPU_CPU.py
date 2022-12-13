@@ -1,8 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-
-get_ipython().system('pip install numba #One time execution')
+pip install numba
 
 
 # ### Required Imports
